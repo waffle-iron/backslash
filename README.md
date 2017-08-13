@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/getslash/backslash.png?label=ready&title=Ready)](https://waffle.io/getslash/backslash?utm_source=badge)
 # Backslash
 
 ![Build Status](https://secure.travis-ci.org/getslash/backslash.png?branch=master ) 
